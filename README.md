@@ -1,2 +1,4 @@
-# edk2-mediatek
-UEFI Firmware for Mediatek
+# UEFI Firmware for Android MediaTek based phones
+
+## Status
+WORK IN PROGRESS
